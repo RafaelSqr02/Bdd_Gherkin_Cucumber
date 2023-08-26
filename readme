@@ -1,0 +1,29 @@
+Repositório do Projeto com Robot Framework, Cucumber, BDD e Python
+Bem-vindo ao repositório do projeto que utiliza as tecnologias Robot Framework, Cucumber, Behavior-Driven Development (BDD) e Python! Este repositório tem como objetivo evoluir meus comandos em Robot e elevar meu nível de estrita das Sintaxes Gherkin e BDD
+
+Visão Geral
+Este projeto é desenvolvido utilizando uma abordagem de Desenvolvimento Orientado a Comportamento (BDD) com as seguintes ferramentas e linguagens:
+
+Robot Framework: Framework de automação de testes de código aberto que permite a escrita de testes em uma linguagem de fácil leitura, possibilitando a colaboração entre equipes não técnicas e técnicas.
+
+Cucumber: Ferramenta de suporte à execução de testes BDD. Permite escrever cenários de teste em linguagem natural e automatizar esses cenários utilizando código.
+
+Python: Linguagem de programação utilizada para implementar bibliotecas personalizadas, scripts e interações com as ferramentas acima.
+
+Estrutura do Repositório
+O repositório está organizado da seguinte forma:
+
+
+📁 resources: Aqui você encontrará recursos necessários para a execução dos testes, como arquivos de dados de teste, imagens de referência, etc.
+
+📁 tests: A pasta principal que contém os testes automatizados. Os testes são organizados de acordo com as funcionalidades ou módulos do sistema.
+
+📁 variables: Scripts ou utilitários Python utilizados nos testes ou na preparação do ambiente.
+
+Configuração do Ambiente
+Antes de executar os testes, certifique-se de configurar o ambiente:
+
+Instalação do Robot Framework e Cucumber: Siga as instruções de instalação do Robot Framework e do Cucumber em seus respectivos sites oficiais.
+
+Dependências Python: Instale as bibliotecas Python necessárias especificadas no arquivo requirements.txt. Você pode fazer isso utilizando o seguinte comando:
+
